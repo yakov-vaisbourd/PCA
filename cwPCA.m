@@ -3,6 +3,9 @@ function [x_out,fun_all] = cwPCA(A,s,varargin)
 % sparse principal component analysis (PCA) problem.
 %
 % Based on the paper
+% A. Beck, Y. Vaisbourd. The Sparse Principal Component Analysis Problem: 
+% Optimality Conditions and Algorithms. J. Optim. Theory Appl., 170(1) 
+% (2016), 119-143. 
 % Amir Beck and Yakov Vaisbourd, "The Sparse Principal Component Analysis
 %                           Problem: Optimality Conditions and Algorithms"
 % -----------------------------------------------------------------------
